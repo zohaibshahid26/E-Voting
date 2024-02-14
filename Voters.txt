@@ -1,0 +1,6 @@
+{"Cnic":"35202-2642292-3","VoterName":"Ali Hamza","SelectedPartyName":"PTI"}
+{"Cnic":"35202-2642292-4","VoterName":"Zohaib SHahid","SelectedPartyName":"PTI"}
+{"Cnic":"35202-2642292-5","VoterName":"Ahad Khan","SelectedPartyName":"PMLN"}
+{"Cnic":"35202-2642292-6","VoterName":"Ahmed bUTT","SelectedPartyName":"PTI"}
+{"Cnic":"35202-2642292-8","VoterName":"Hamza Malik","SelectedPartyName":"PTI"}
+{"Cnic":"35202-2642292-0","VoterName":"Haider ALi","SelectedPartyName":"PTI"}

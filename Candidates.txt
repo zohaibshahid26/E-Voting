@@ -1,0 +1,2 @@
+{"CandidateID":2573,"Name":"Imran Khan ","Party":"PTI","Votes":5}
+{"CandidateID":6994,"Name":"Nawaz Sharif","Party":"PMLN","Votes":1}
